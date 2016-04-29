@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./prodromusflorae00schugoog_0039.png"; bbox 0 0 2600 4802; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 763 373 2035 507">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 763 373 2035 507">
+     <span class='ocr_line' id='line_1_1' title="bbox 763 373 2035 507; baseline 0.009 -49"><span class='ocrx_word' id='word_1_1' title='bbox 763 373 1404 507; x_wconf 48' lang='lat' dir='ltr'><strong>scosANDRIp..</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1487 397 1489 400; x_wconf 44' lang='lat'><em>⁷</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1666 391 1675 416; x_wconf 80' lang='lat'>¹</span> <span class='ocrx_word' id='word_1_4' title='bbox 1938 407 2035 477; x_wconf 82' lang='lat'><strong>27</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 140 3993 2063 4065">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 140 3993 2063 4065">
+     <span class='ocr_line' id='line_1_2' title="bbox 140 3993 2063 4065; baseline 0.007 -27"><span class='ocrx_word' id='word_1_5' title='bbox 140 3993 371 4040; x_wconf 58' lang='grc' dir='ltr'><strong>ιιι-ϊωιι</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 414 4000 679 4065; x_wconf 65' lang='lat' dir='ltr'><strong>sparsa,</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 722 3993 911 4044; x_wconf 75' lang='lat' dir='ltr'><strong>ramis</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 953 3993 1248 4045; x_wconf 74' lang='lat' dir='ltr'><strong>florifetis</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1287 3993 1786 4058; x_wconf 72' lang='lat' dir='ltr'><strong>subinermibus,</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1822 3993 2063 4045; x_wconf 71' lang='lat'><strong>1011011·</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
